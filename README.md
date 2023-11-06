@@ -30,7 +30,6 @@ The project successfully identified four clusters of research articles and extra
 
 ![scatterplot-clusters](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/12598f39-6a2f-4bc1-bcd3-0dbcdc9c5da9)
 
-
 **Key Skills Learned**
 
 * Textual Data Analysis and Natural Language Processing (NLP): The project involved analyzing and processing textual data from scientific publications, including NLP techniques like TF-IDF and clustering.
@@ -48,19 +47,11 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 
 **Req. Package:**
 
-***Third-Party Libraries***
-
 matplotlib==3.6.2 <br>
 pandas==1.5.2 <br>
 requests==2.28.1 <br>
 beautifulsoup4==4.11.1 <br>
-
-***Natural Language Processing***
-
 nltk==3.7
-
-***Data Science and Machine Learning***
-
 numpy==1.23.5 <br>
 spacy==3.5.3 <br>
 scikit-learn==1.2.0 <br>
