@@ -1,17 +1,18 @@
 Unsupervised Machine Learning 
 # Transforming Text Data Into Insights: Analyzing Current Research Trends
-<br>
+
 
 ## Table of Contents
 1. [General Info](#General-Info)
 2. [Installation](#Installation)
-3. [Usage and Main Functionalities](#Usage-and-Main-Functionalities)
+
 
 ## General Info
 
 **Project Overview** 
 
 The field of scientific study is constantly changing, with new trends and topics of interest appearing on a regular basis. Identifying these trends is crucial for both scientific institutions and enterprises looking to navigate their strategic direction. This project aims to understand the current trends in science by analyzing scholarly publications using Natural Language Processing (NLP) techniques. The project is based on the arXiv database, which can be downloaded at https://www.kaggle.com/datasets/Cornell-University/arxiv/data. 
+
 
 **Project Objective and Methods**
 
@@ -22,13 +23,22 @@ This project's primary goal is to use textual data analysis to extract insightfu
 
 The code for this project was developed as part of a university project for B.Sc. Data Science, with a focus on Unsupervised Learning and Feature Engineering.
 
+
 **Results**
 
 The project successfully identified four clusters of research articles and extracted the top 20 keywords for each cluster, providing insights into overarching themes and trends within the scientific publications.
 
+![scatterplot-clusters](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/12598f39-6a2f-4bc1-bcd3-0dbcdc9c5da9)
+
+![cluster3](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/d50489f4-6eb5-42d8-8688-485b1e5c5dbb)
+
+
 **Key Skills Learned**
 
-
+* Textual Data Analysis and Natural Language Processing (NLP): The project involved analyzing and processing textual data from scientific publications, including NLP techniques like TF-IDF and clustering.
+* Machine Learning: Implementing unsupervised learning techniques such as k-Means clustering and Principal Component Analysis (PCA) for topic modeling.
+* Data Visualization: Creating visual representations of data using libraries like Matplotlib, Seaborn, and Yellowbrick.
+* Data Cleaning and Preprocessing: Preparing and cleaning data for analysis, including handling missing data and noise.
 
 
 ## Installation
@@ -36,6 +46,7 @@ The project successfully identified four clusters of research articles and extra
 **Requirements:** 
 
 Make sure you have Python 3.7+ installed on your computer. You can download the latest version of Python [here](https://www.python.org/downloads/). 
+
 
 **Req. Package:**
 
