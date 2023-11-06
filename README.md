@@ -32,10 +32,10 @@ The project successfully identified four clusters of research articles and extra
 
 **Key Skills Learned**
 
-* Textual Data Analysis and Natural Language Processing (NLP): The project involved analyzing and processing textual data from scientific publications, including NLP techniques like TF-IDF and clustering.
-* Machine Learning: Implementing unsupervised learning techniques such as k-Means clustering and Principal Component Analysis (PCA) for topic modeling.
+* Textual Data Analysis and NLP: The project involved analyzing and processing textual data from scientific publications, including techniques like TF-IDF and clustering.
+* Machine Learning: Implementing unsupervised learning techniques such as k-Means clustering and PCA.
 * Data Visualization: Creating visual representations of data using libraries like Matplotlib, Seaborn, and Yellowbrick.
-* Data Cleaning and Preprocessing: Preparing and cleaning data for analysis, including handling missing data and noise.
+* Data Cleaning and Preprocessing: Preparing and cleaning data for analysis, including lemmatization.
 
 
 ## Installation
@@ -45,7 +45,7 @@ The project successfully identified four clusters of research articles and extra
 Make sure you have Python 3.7+ installed on your computer. You can download the latest version of Python [here](https://www.python.org/downloads/). 
 
 
-**Req. Package:**
+**Req. Packages:**
 
 matplotlib==3.6.2 <br>
 pandas==1.5.2 <br>
