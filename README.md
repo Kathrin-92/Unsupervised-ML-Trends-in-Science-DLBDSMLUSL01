@@ -30,8 +30,6 @@ The project successfully identified four clusters of research articles and extra
 
 ![scatterplot-clusters](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/12598f39-6a2f-4bc1-bcd3-0dbcdc9c5da9)
 
-![cluster3](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/d50489f4-6eb5-42d8-8688-485b1e5c5dbb)
-
 
 **Key Skills Learned**
 
