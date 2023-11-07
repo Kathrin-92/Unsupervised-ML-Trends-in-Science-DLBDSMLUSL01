@@ -18,8 +18,8 @@ The field of scientific study is constantly changing, with new trends and topics
 
 This project's primary goal is to use textual data analysis to extract insightful information and spot trends in scientific papers. The project uses NLP algorithms on the arXiv dataset in order to do this. The key steps are as follows::
 
-1. Clustering Research Articles: Utilizing a k-Means clustering model, the project groups research articles with similar content.
-2. Topic Modeling Analysis: Employing Principal Component Analysis (PCA) and Term Frequency-Inverse Document Frequency (TF-IDF) to identify overarching subjects within the clusters.
+1. Clustering Research Articles: Utilizing a k-Means clustering model, the project groups research articles with similar content. It employs Principal Component Analysis (PCA) for Dimensionality Reduction.
+2. Topic Modeling Analysis: Term Frequency-Inverse Document Frequency (TF-IDF) is used to identify overarching subjects within the clusters.
 
 The code for this project was developed as part of a university project for B.Sc. Data Science, with a focus on Unsupervised Learning and Feature Engineering.
 
