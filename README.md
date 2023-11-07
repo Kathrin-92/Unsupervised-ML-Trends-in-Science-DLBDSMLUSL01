@@ -28,7 +28,8 @@ The code for this project was developed as part of a university project for B.Sc
 
 The project successfully identified four clusters of research articles and extracted the top 20 keywords for each cluster, providing insights into overarching themes and trends within the scientific publications.
 
-![scatterplot-clusters](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/12598f39-6a2f-4bc1-bcd3-0dbcdc9c5da9)
+![scatterplot-clusters](https://github.com/Kathrin-92/Unsupervised-ML-Trends-in-Science-DLBDSMLUSL01/assets/71875232/aa451a1a-46a0-44c1-a278-2757d1a2d61c)
+
 
 **Key Skills Learned**
 
